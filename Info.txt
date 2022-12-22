@@ -1,0 +1,21 @@
+--------------------------------------------------------------------Bienvenue sur le système SemaOS-----------------------------------------
+
+
+*****************************************************************Le SemaOS*****************************************************************************
+
+Le SemaOS est une application graphique embarquée à la Semabox, elle est développer avec le langage python.
+L’application est graphique et fait appel à des scripts développés par nos soins.
+Elle permet la génération d’un tableau de bord permettant de donner des informations sur le réseau du client sur lequel la Semabox est déployée.
+Voici les différentes fonctionnalités implémenter :
+• Possibilité de lancer un scan du réseau (liste des machines connectées, ports ouverts) à partir du SemaOS.
+• Possibilité de lancer des tests de débits
+• Tests à intervalles de temps réguliers du bon fonctionnement de l’accès Internet
+
+***************************************************************Le SemaLynx******************************************************************************
+
+Le SemaLYNX est une interface Web qui est utilisée par l’équipe support afin d’avoir une visu rapide des éléments techniques les plus importants concernant une semabox. 
+Les fonctionnalités suivantes sont assurées :
+• Liste des Semabox
+• Visualisation du tableau de bord d’une Semabox donnée
+• Possibilité de redémarrer à distance la Semabox
+• Visualisation de la version du SemaOS
